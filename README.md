@@ -1,6 +1,6 @@
 # **【持续更新】国内如何使用Claude（克劳德）？（6种可行方式）**
 
-> 更新日期：2025-04-24
+> 更新日期：2025-05-19
 
 **Claude**是由Anthropic团队开发的先进语言模型，以其出色的自然语言处理、内容生成和复杂问题解决能力深受用户欢迎。本文将为你解答如何在国内使用Claude（克劳德），并为你总结目前国内可以轻松使用的六种方法。值得一提的是，最新版本**Claude 3.7**目前被认为是性能最为强大的模型之一。
 
@@ -39,7 +39,7 @@ Claude有着突出的性能，让越来越多用户对它青睐有加：
 #### 推荐资源：
 | 网站名称 | 支持功能 | 访问链接 |
 | --- | --- | --- |
-| **[一下 AI](https://chat.yixiaai.com)** |  支持Claude 3.7 Sonnet、GPT 4o绘画、AI PPT、GPT-4.0、GPT-4.1 & mini、GPT-o1、GPT-o3、Gemini 2.5 Pro、Grok-3、DeepSeek r1 满血版、AI PPT、DeepSeek V3 0324、AI 翻译、联网查询等功能 | [点击访问](https://chat.yixiaai.com) |
+| **[一下 AI](https://xsimplechat.com)** |  支持Claude 3.7 Sonnet、GPT 4o绘画、AI PPT、GPT-4.0、GPT-4.1 & mini、GPT-o1、GPT-o3、Gemini 2.5 Pro、Grok-3、DeepSeek r1 满血版、AI PPT、DeepSeek V3 0324、AI 翻译、联网查询等功能 | [点击访问](https://xsimplechat.com) |
 | **[蓝鲸 AI](https://chat.chatgpt-chinese.com/)** | Claude 3、GPT 4.0、Grok，功能强大稳定 | [点击访问](https://chat.chatgpt-chinese.com/) |
 | **[深智 AI](https://deepseek-free.org/)** | Claude和DeepSeek满血版功能全解锁 | [点击访问](https://deepseek-free.org/) |
 
@@ -68,7 +68,7 @@ Claude有着突出的性能，让越来越多用户对它青睐有加：
 如果你追求更稳定的使用体验，可以选择安装AI工具客户端。客户端不仅兼容Claude，还可能集成其他实用的AI功能。
 
 #### 下载推荐：
-- [智惠岛AI客户端](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi)：直接下载后即可使用，支持稳定连接和本地功能扩展。
+- [智惠岛AI客户端](https://xsimplechat.com)：直接下载后即可使用，支持稳定连接和本地功能扩展。
 
 **优势**：
 - 稳定的运行环境，避免网络波动。
@@ -81,8 +81,7 @@ Claude有着突出的性能，让越来越多用户对它青睐有加：
 对于习惯在浏览器上操作的用户，安装支持Claude的浏览器插件是一种方便的选择。例如，你可以在Edge或Chrome的插件市场找到支持中文和各种AI工具的插件。
 
 #### 插件推荐：
-- **[Edge版ChatGPT插件](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil)**  
-- **[Chrome版AI插件](https://chromewebstore.google.com/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88ai-%E6%99%BA%E6%85%A7%E5%B2%9B%EF%BC%89/jffjfhngfgcglmjjpakgekefpegmhkll?hl=zh-CN&utm_source=ext_sidebar)**  
+- **[Edge版ChatGPT插件](https://xsimplechat.com)**  
 
 **优势**：
 - 即插即用，免登录操作。
@@ -122,7 +121,7 @@ Claude有着突出的性能，让越来越多用户对它青睐有加：
 
 ## **总结**
 
-通过这6种方法，你可以轻松在国内使用Claude模型，无论初学者还是专业技术人员都能找到适合自己的解决方案。如果你还在寻找靠谱的资源，不妨访问**[一下AI](https://chat.yixiaai.com)**，快速体验Claude的强大功能！
+通过这6种方法，你可以轻松在国内使用Claude模型，无论初学者还是专业技术人员都能找到适合自己的解决方案。如果你还在寻找靠谱的资源，不妨访问**[一下AI](https://xsimplechat.com)**，快速体验Claude的强大功能！
 
 ---
 
@@ -132,7 +131,7 @@ Claude有着突出的性能，让越来越多用户对它青睐有加：
    Claude擅长长文本生成和复杂任务，适配更多场景。
 
 2. **国内无需科学上网的访问方式有哪些？**  
-   [一下AI平台](https://chat.yixiaai.com)和其他多功能镜像均可满足使用需求。
+   [一下AI平台](https://chat.lanjing.pro)和其他多功能镜像均可满足使用需求。
 
 3. **Claude适合企业用户吗？**  
    是的，特别适合内容创作和任务复杂度较高的场景。
